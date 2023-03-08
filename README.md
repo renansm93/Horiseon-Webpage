@@ -1,31 +1,22 @@
-# Challenge1 - Horiseon Website
+# Horiseon Webpage Project
 
-## Description
+# Description
 
-This challenge was made for bootcamp students to learn more about CSS, HTML and GIT. It contains notes on HTML, CSS, Git, and JavaScript.
+- This is a website for the Horiseon marketing agency to meet 
+criteria of semantic elements, alt tags and comments following accessibility standards.
 
-## Installation
+- It contains notes on HTML, CSS.
 
-N/A
+# Live URL
 
-## Usage
+ 
+<img src="Develop/assets/images/Horiseon_Webpage_screenshot.png" widht=300 height=700 alt="Screenshot of the website">
 
--GIVEN a webpage meets accessibility standards
--WHEN I view the source code
--THEN I find semantic HTML elements
--WHEN I view the structure of the HTML elements
--THEN I find that the elements follow a logical structure independent of styling and positioning
--WHEN I view the image elements
--THEN I find accessible alt attributes
--WHEN I view the heading attributes
--THEN they fall in sequential order
--WHEN I view the title element
--THEN I find a concise, descriptive title
 
-## Credits
+# Contributors
 
- https://www.w3schools.com/html/html5_semantic_elements.asp
+ - renansm93
 
-## License
+ - Xandromus
 
-Please refer to the LICENSE in the repo.
+ - https://www.w3schools.com/html/html5_semantic_elements.asp

@@ -40,7 +40,7 @@ header section {
     font-size: 20px;
 }
 
-header li, a {
+header li, header a {
     display: inline-block;
     margin-left: 25px;
     color: #ffffff;
