@@ -12,6 +12,8 @@ criteria of semantic elements, alt tags and comments following accessibility sta
  
 <img src="Develop/assets/images/Horiseon_Webpage_screenshot.png" widht=300 height=700 alt="Screenshot of the website">
 
+- https://renansm93.github.io/Horiseon-Webpage/
+
 
 # Contributors
 
